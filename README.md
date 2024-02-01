@@ -8,7 +8,7 @@ A filter that replaces each pixel with the average value of its neighboring pixe
 
 ### output :
 
-![image](https://github.com/Gelareh-st/Image-Smoothing-Filters/assets/85786544/b75ed434-d8a6-4ebb-bda5-002b7c99a05f)
+![image](https://github.com/Gelareh-st/Image-Smoothing-Filters/assets/85786544/8e26357e-da4f-42a6-8de6-0694b8240059)
 
 
 
